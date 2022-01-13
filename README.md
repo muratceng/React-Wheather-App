@@ -2,5 +2,5 @@
 
 bu proje Kodluyoruz-react modülü ödevi için hazırlanmıştır.
 
-![image info](src/assets/Add.png)
+![image info](src/assets/App.png)
 
